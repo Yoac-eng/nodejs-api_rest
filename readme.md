@@ -1,9 +1,5 @@
 # Description
 This repository has basically the intention of API's REST development and analysis, without any frameworks, using only native NodeJS.
-# Setup
-- NodeJS;
-- Insomnia || Postman;
-- VS Code
 
 # Versions
 - Node: v16.15.1
